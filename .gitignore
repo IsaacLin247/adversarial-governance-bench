@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Docker volumes
+minecraft-data/
+pg-data/
+
+# OS
+.DS_Store
+*.swp
