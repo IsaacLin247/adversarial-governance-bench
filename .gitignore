@@ -6,6 +6,9 @@ __pycache__/
 venv/
 .env
 
+# Node
+node_modules/
+
 # Docker volumes
 minecraft-data/
 pg-data/
